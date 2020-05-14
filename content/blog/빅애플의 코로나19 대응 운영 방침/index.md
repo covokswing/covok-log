@@ -5,6 +5,7 @@ title: 빅애플의 코로나19 대응 운영 방침
 cover: bigapple-antivirus-policy1.png
 description: ""
 metaDescription: ""
+tag: ["빅애플"]
 ---
 출처: <https://cafe.naver.com/bigappleswing/1005?fbclid=IwAR33jAc8-WzJI83D_gnGMM_0Zq3uVmkBFJ1rNUXttW5-tRdPhpo89wnEldU>
 

@@ -10,9 +10,11 @@ locale: 'ko'
 collections:
   - name: blog
     label: Blog
-    folder: _data/blog
+    folder: content/blog
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'  
     create: true
+    editor:
+      preview: false
     fields:
       - {
         label: Template,

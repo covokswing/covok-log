@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Covid.ok.swing.kr`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `covokswing`,
+      summary: ``,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `한국 스윙씬의 코로나 급고 일지`,
+    siteUrl: `https://covokswing.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      facebook: `covidswingkr`,
     },
   },
   plugins: [
